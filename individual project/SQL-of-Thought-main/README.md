@@ -47,7 +47,7 @@ The framework achieves ~68% execution accuracy on the Spider dataset (GPT-4o-min
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/sql-of-thought.git
+git clone https://github.com/Steven-Zhan/FTEC5660/tree/main/individual%20project/SQL-of-Thought-main
 cd sql-of-thought
 ```
 
